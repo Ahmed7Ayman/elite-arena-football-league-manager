@@ -171,7 +171,7 @@ elite-arena-football-league-manager/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/elite-arena-football-league-manager.git
+git clone https://github.com/Ahmed7Ayman/elite-arena-football-league-manager.git
 ```
 
 ### 2. Navigate to the Project Directory
