@@ -233,6 +233,44 @@ The application contains five main sections:
 
 ---
 
+---
+
+## 📸 Application Screenshots
+
+### 🏠 1. Dashboard
+The main dashboard displaying tournament statistics and season progress.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### ⚽ 2. Fixtures & Results
+View scheduled matches, start matches, and manage final results.
+
+![Fixtures](screenshots/fixtures.png)
+
+---
+
+### 🏆 3. League Standings
+Automatically calculated league table based on match results.
+
+![Standings](screenshots/standings.png)
+
+---
+
+### 👥 4. Teams & Players
+Manage football teams and their registered players.
+
+![Teams and Players](screenshots/teams.png)
+
+---
+
+### ⚙️ 5. League Management
+Register teams and generate the tournament schedule.
+
+![League Management](screenshots/management.png)
+
+---
 ## ⚽ Tournament Scheduling Logic
 
 Elite Arena uses a **Single Round-Robin Tournament System**.
